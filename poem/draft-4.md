@@ -117,7 +117,7 @@ uninterrupted over the end credits.
 - "I never remember the last time, which might be why it's still this good"
 - "lit by the thing it happens to be the size of"
 
-**Length.** About 400 words, with the sung lines taking longer than their word count suggests. That's
+**Length.** About 420 words, with the sung lines taking longer than their word count suggests. That's
 probably 3.5 to 4 minutes. If it needs cutting, the first candidates are "I'll be back. I'm always
 back," and "and then whatever came next."
 
