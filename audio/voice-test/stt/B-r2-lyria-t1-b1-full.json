@@ -1,0 +1,126 @@
+{
+ "text": " *tap tap tap*  *tick*  It fits.",
+ "usage": {
+  "seconds": 23.327,
+  "cost": 0.0001749525
+ },
+ "task": "transcribe",
+ "language": "en",
+ "duration": 23.327,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0.48,
+   "end": 1.8,
+   "text": " *tap tap tap*",
+   "tokens": [
+    1853,
+    83,
+    569,
+    5119,
+    5119,
+    9
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.9244622550904751,
+   "compression_ratio": 0.875,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 1,
+   "start": 1.89,
+   "end": 2.3899999999999997,
+   "text": " *tick*",
+   "tokens": [
+    1853,
+    83,
+    618,
+    9
+   ],
+   "temperature": 0,
+   "avg_logprob": -1.1754825115203857,
+   "compression_ratio": 0.4666666666666667,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 3,
+   "start": 3.33,
+   "end": 8.33,
+   "text": " It fits.",
+   "tokens": [
+    467,
+    9001,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.639349789917469,
+   "compression_ratio": 0.5294117647058824,
+   "no_speech_prob": 0
+  }
+ ],
+ "words": [
+  {
+   "word": " *tap",
+   "start": 0.48,
+   "end": 1.0400000023841858
+  },
+  {
+   "word": " tap",
+   "start": 1.0400000023841858,
+   "end": 1.0400000023841858
+  },
+  {
+   "word": " tap",
+   "start": 1.0400000023841858,
+   "end": 1.179999988079071
+  },
+  {
+   "word": "*",
+   "start": 1.179999988079071,
+   "end": 1.179999988079071
+  },
+  {
+   "word": " *tick",
+   "start": 1.89,
+   "end": 2.1499999904632565
+  },
+  {
+   "word": "*",
+   "start": 2.1499999904632565,
+   "end": 2.1499999904632565
+  },
+  {
+   "word": " *tick",
+   "start": 2.1499999904632565,
+   "end": 2.66999997138977
+  },
+  {
+   "word": "*",
+   "start": 2.66999997138977,
+   "end": 2.66999997138977
+  },
+  {
+   "word": " *tick",
+   "start": 2.66999997138977,
+   "end": 3.130000009536743
+  },
+  {
+   "word": "*",
+   "start": 3.130000009536743,
+   "end": 3.130000009536743
+  },
+  {
+   "word": " It",
+   "start": 3.33,
+   "end": 4.250000016689301
+  },
+  {
+   "word": " fits.",
+   "start": 4.250000016689301,
+   "end": 5.070000009536743
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "text": " Somebody made them match, so we'd look up.  It's the sky.  Rhyming",
+ "usage": {
+  "seconds": 23.745,
+  "cost": 0.0001780875
+ },
+ "task": "transcribe",
+ "language": "en",
+ "duration": 23.745,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0.12,
+   "end": 8.62,
+   "text": " Somebody made them match, so we'd look up.",
+   "tokens": [
+    13463,
+    1027,
+    552,
+    2995,
+    11,
+    370,
+    321,
+    1116,
+    574,
+    493,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.2568774276878685,
+   "compression_ratio": 0.8775510204081632,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 11,
+   "start": 11.01,
+   "end": 14.61,
+   "text": " It's the sky.",
+   "tokens": [
+    467,
+    311,
+    264,
+    5443,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.5144111406157857,
+   "compression_ratio": 0.6363636363636364,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 17,
+   "start": 17.67,
+   "end": 20.490000000000002,
+   "text": " Rhyming",
+   "tokens": [
+    497,
+    3495,
+    2810
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.3676596059463918,
+   "compression_ratio": 0.5,
+   "no_speech_prob": 0
+  }
+ ],
+ "words": [
+  {
+   "word": " Somebody",
+   "start": 0.12,
+   "end": 1.279999966621399
+  },
+  {
+   "word": " made",
+   "start": 1.279999966621399,
+   "end": 2.239999885559082
+  },
+  {
+   "word": " them",
+   "start": 2.239999885559082,
+   "end": 2.8000000667572023
+  },
+  {
+   "word": " match,",
+   "start": 2.8000000667572023,
+   "end": 3.939999933242798
+  },
+  {
+   "word": " so",
+   "start": 3.939999933242798,
+   "end": 4.679999942779541
+  },
+  {
+   "word": " we'd",
+   "start": 4.679999942779541,
+   "end": 5.8399997901916505
+  },
+  {
+   "word": " look",
+   "start": 5.8399997901916505,
+   "end": 6.359999771118164
+  },
+  {
+   "word": " up.",
+   "start": 6.359999771118164,
+   "end": 7.440000171661377
+  },
+  {
+   "word": " It's",
+   "start": 11.310000047683715,
+   "end": 12.710000047683716
+  },
+  {
+   "word": " the",
+   "start": 12.710000047683716,
+   "end": 12.78999997138977
+  },
+  {
+   "word": " sky.",
+   "start": 12.78999997138977,
+   "end": 13.990000019073486
+  },
+  {
+   "word": " Rhyming",
+   "start": 17.67,
+   "end": 18.650000019073488
+  }
+ ]
+}

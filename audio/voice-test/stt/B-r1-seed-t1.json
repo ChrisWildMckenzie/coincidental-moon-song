@@ -1,0 +1,129 @@
+{
+ "text": " And I'm a little annoyed with it.  And I'm looking  It fits.",
+ "usage": {
+  "seconds": 9.64,
+  "cost": 7.23e-05
+ },
+ "task": "transcribe",
+ "language": "en",
+ "duration": 9.64,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0.33,
+   "end": 2.87,
+   "text": " And I'm a little annoyed with it.",
+   "tokens": [
+    400,
+    286,
+    478,
+    257,
+    707,
+    25921,
+    365,
+    309,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.13153836962936277,
+   "compression_ratio": 0.8095238095238095,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 3,
+   "start": 3.15,
+   "end": 5.55,
+   "text": " And I'm looking",
+   "tokens": [
+    400,
+    286,
+    478,
+    1237
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.20515976132204136,
+   "compression_ratio": 0.6666666666666666,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 7,
+   "start": 7.8,
+   "end": 9.44,
+   "text": " It fits.",
+   "tokens": [
+    467,
+    9001,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.3242525100708008,
+   "compression_ratio": 0.5294117647058824,
+   "no_speech_prob": 0
+  }
+ ],
+ "words": [
+  {
+   "word": " And",
+   "start": 0.33,
+   "end": 0.47000000059604646
+  },
+  {
+   "word": " I'm",
+   "start": 0.47000000059604646,
+   "end": 0.5899999904632569
+  },
+  {
+   "word": " a",
+   "start": 0.5899999904632569,
+   "end": 0.6499999928474427
+  },
+  {
+   "word": " little",
+   "start": 0.6499999928474427,
+   "end": 0.8700000214576722
+  },
+  {
+   "word": " annoyed",
+   "start": 0.8700000214576722,
+   "end": 1.430000023841858
+  },
+  {
+   "word": " with",
+   "start": 1.430000023841858,
+   "end": 2.1299999523162843
+  },
+  {
+   "word": " it.",
+   "start": 2.1299999523162843,
+   "end": 2.510000066757202
+  },
+  {
+   "word": " And",
+   "start": 3.15,
+   "end": 3.3300000071525573
+  },
+  {
+   "word": " I'm",
+   "start": 3.3300000071525573,
+   "end": 3.950000011920929
+  },
+  {
+   "word": " looking",
+   "start": 3.950000011920929,
+   "end": 4.569999957084656
+  },
+  {
+   "word": " It",
+   "start": 7.8,
+   "end": 7.980000007152557
+  },
+  {
+   "word": " fits.",
+   "start": 7.980000007152557,
+   "end": 8.559999990463258
+  }
+ ]
+}

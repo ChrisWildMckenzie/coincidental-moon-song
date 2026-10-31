@@ -1,0 +1,117 @@
+{
+ "text": " And I'm a little annoyed with it. And I'm looking.  It fits!",
+ "usage": {
+  "seconds": 4.63,
+  "cost": 3.4725e-05
+ },
+ "task": "transcribe",
+ "language": "en",
+ "duration": 4.63,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0,
+   "end": 3.14,
+   "text": " And I'm a little annoyed with it. And I'm looking.",
+   "tokens": [
+    400,
+    286,
+    478,
+    257,
+    707,
+    25921,
+    365,
+    309,
+    13,
+    400,
+    286,
+    478,
+    1237,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.21823024168406846,
+   "compression_ratio": 0.9622641509433962,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 3,
+   "start": 3.45,
+   "end": 4.61,
+   "text": " It fits!",
+   "tokens": [
+    467,
+    9001,
+    0
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.757817167043686,
+   "compression_ratio": 0.5294117647058824,
+   "no_speech_prob": 0
+  }
+ ],
+ "words": [
+  {
+   "word": " And",
+   "start": 0,
+   "end": 0.10000000149011612
+  },
+  {
+   "word": " I'm",
+   "start": 0.10000000149011612,
+   "end": 0.30000001192092896
+  },
+  {
+   "word": " a",
+   "start": 0.30000001192092896,
+   "end": 0.3799999952316284
+  },
+  {
+   "word": " little",
+   "start": 0.3799999952316284,
+   "end": 0.6600000262260437
+  },
+  {
+   "word": " annoyed",
+   "start": 0.6600000262260437,
+   "end": 1.1200000047683716
+  },
+  {
+   "word": " with",
+   "start": 1.1200000047683716,
+   "end": 1.340000033378601
+  },
+  {
+   "word": " it.",
+   "start": 1.340000033378601,
+   "end": 1.7400000095367432
+  },
+  {
+   "word": " And",
+   "start": 1.7400000095367432,
+   "end": 2.200000047683716
+  },
+  {
+   "word": " I'm",
+   "start": 2.200000047683716,
+   "end": 2.4000000953674316
+  },
+  {
+   "word": " looking.",
+   "start": 2.4000000953674316,
+   "end": 2.740000009536743
+  },
+  {
+   "word": " It",
+   "start": 3.45,
+   "end": 3.5900000005960466
+  },
+  {
+   "word": " fits!",
+   "start": 3.5900000005960466,
+   "end": 4.4899999618530275
+  }
+ ]
+}

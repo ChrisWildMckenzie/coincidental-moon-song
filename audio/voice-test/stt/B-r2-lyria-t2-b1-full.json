@@ -1,0 +1,41 @@
+{
+ "text": " It fits",
+ "usage": {
+  "seconds": 21.6555008,
+  "cost": 0.0006677112746659448
+ },
+ "task": "transcribe",
+ "language": "English",
+ "duration": 21.6555008,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0,
+   "end": 7.68,
+   "text": " It fits",
+   "tokens": [
+    50365,
+    467,
+    9001,
+    50749
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.33669227,
+   "compression_ratio": 0.5,
+   "no_speech_prob": 0.25952148
+  }
+ ],
+ "words": [
+  {
+   "word": "It",
+   "start": 4.08,
+   "end": 4.26
+  },
+  {
+   "word": "fits",
+   "start": 4.26,
+   "end": 5.86
+  }
+ ]
+}

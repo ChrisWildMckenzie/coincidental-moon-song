@@ -1,0 +1,181 @@
+{
+ "text": " \u266a Somebody made them match \u266a  So we'd look up  *sniff*  It's the sky  Rhyming",
+ "usage": {
+  "seconds": 20.192,
+  "cost": 0.00015144
+ },
+ "task": "transcribe",
+ "language": "en",
+ "duration": 20.192,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0.4,
+   "end": 4.16,
+   "text": " \u266a Somebody made them match \u266a",
+   "tokens": [
+    931,
+    13463,
+    1027,
+    552,
+    2995,
+    931
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.16501396108651534,
+   "compression_ratio": 0.8461538461538461,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 4,
+   "start": 4.32,
+   "end": 8.46,
+   "text": " So we'd look up",
+   "tokens": [
+    407,
+    321,
+    1116,
+    574,
+    493
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.15220033124621427,
+   "compression_ratio": 0.6666666666666666,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 10,
+   "start": 10.53,
+   "end": 11.649999999999999,
+   "text": " *sniff*",
+   "tokens": [
+    1853,
+    18860,
+    3661,
+    9
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.8855117733279864,
+   "compression_ratio": 0.5,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 11,
+   "start": 11.91,
+   "end": 16.65,
+   "text": " It's the sky",
+   "tokens": [
+    467,
+    311,
+    264,
+    5443
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.2227562222785006,
+   "compression_ratio": 0.6190476190476191,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 16,
+   "start": 16.95,
+   "end": 20.169999999999998,
+   "text": " Rhyming",
+   "tokens": [
+    497,
+    3495,
+    2810
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.38081042747944593,
+   "compression_ratio": 0.5,
+   "no_speech_prob": 0
+  }
+ ],
+ "words": [
+  {
+   "word": " \u266a",
+   "start": 0,
+   "end": 0
+  },
+  {
+   "word": " Somebody",
+   "start": 0,
+   "end": 1.1200000047683716
+  },
+  {
+   "word": " made",
+   "start": 1.1200000047683716,
+   "end": 2.119999885559082
+  },
+  {
+   "word": " them",
+   "start": 2.119999885559082,
+   "end": 2.700000047683716
+  },
+  {
+   "word": " match",
+   "start": 2.700000047683716,
+   "end": 3.4200000762939453
+  },
+  {
+   "word": " \u266a",
+   "start": 3.4200000762939453,
+   "end": 3.819999933242798
+  },
+  {
+   "word": " So",
+   "start": 4.32,
+   "end": 4.860000021457672
+  },
+  {
+   "word": " we'd",
+   "start": 4.860000021457672,
+   "end": 5.640000052452088
+  },
+  {
+   "word": " look",
+   "start": 5.640000052452088,
+   "end": 6.020000047683716
+  },
+  {
+   "word": " up",
+   "start": 6.020000047683716,
+   "end": 6.899999923706055
+  },
+  {
+   "word": " *sniff",
+   "start": 10.53,
+   "end": 11.03
+  },
+  {
+   "word": "*",
+   "start": 11.03,
+   "end": 11.03
+  },
+  {
+   "word": " It's",
+   "start": 11.91,
+   "end": 12.789999995231629
+  },
+  {
+   "word": " the",
+   "start": 12.789999995231629,
+   "end": 12.849999997615814
+  },
+  {
+   "word": " sky",
+   "start": 12.849999997615814,
+   "end": 13.809999976158142
+  },
+  {
+   "word": " Rhyming",
+   "start": 16.95,
+   "end": 17.989999961853027
+  }
+ ]
+}

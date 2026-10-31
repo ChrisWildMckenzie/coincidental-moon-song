@@ -1,0 +1,1780 @@
+{
+ "takes": [
+  {
+   "take": "A-r1-gemini-t1",
+   "passage": "A",
+   "duration_s": 25.72,
+   "transcript": "It reads like the first line of something.  and I can't leave a first line alone.  Somebody made the match.  So we'd look up.  It's the sky rhyming.  I can't check the ones that satisfy.  The one I can check doesn't.  It fits.  That's all it does.",
+   "wer": 0.021,
+   "held_spoken": 0.283,
+   "held_sung": 0.621,
+   "sung_seconds": 5.27,
+   "similarity_spoken_vs_sung": 0.774,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.74
+     ],
+     "voiced_s": 1.36,
+     "median_f0_hz": 206.2,
+     "held": 0.243
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.84,
+      5.86
+     ],
+     "voiced_s": 1.0,
+     "median_f0_hz": 152.8,
+     "held": 0.4
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      7.71,
+      11.75
+     ],
+     "voiced_s": 2.18,
+     "median_f0_hz": 220.0,
+     "held": 0.706
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      13.08,
+      14.46
+     ],
+     "voiced_s": 0.3,
+     "median_f0_hz": 178.2,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      17.1,
+      18.86
+     ],
+     "voiced_s": 0.52,
+     "median_f0_hz": 162.8,
+     "held": 0.596
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      20.37,
+      21.57
+     ],
+     "voiced_s": 0.57,
+     "median_f0_hz": 205.6,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      22.98,
+      25.59
+     ],
+     "voiced_s": 0.22,
+     "median_f0_hz": 82.5,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r1-gemini-t1.mp3",
+    "kbytes": 302,
+    "duration_s": 25.756735
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r1-gemini-t2",
+   "passage": "A",
+   "duration_s": 24.77,
+   "transcript": "It reads like the first line of something.  And I can't leave a first line alone.  Somebody made them match, so we'd look up.  It's the sky.  Rhyming.  I can't check the ones that satisfy.  The one I can check doesn't.  It fits. That's all it does.",
+   "wer": 0.0,
+   "held_spoken": 0.178,
+   "held_sung": 0.238,
+   "sung_seconds": 4.15,
+   "similarity_spoken_vs_sung": 0.809,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.21,
+      2.41
+     ],
+     "voiced_s": 1.03,
+     "median_f0_hz": 166.0,
+     "held": 0.408
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.69,
+      5.81
+     ],
+     "voiced_s": 1.11,
+     "median_f0_hz": 173.0,
+     "held": 0.0
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      8.13,
+      10.43
+     ],
+     "voiced_s": 0.96,
+     "median_f0_hz": 171.9,
+     "held": 0.188
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      12.12,
+      14.04
+     ],
+     "voiced_s": 0.76,
+     "median_f0_hz": 147.0,
+     "held": 0.303
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      16.33,
+      18.23
+     ],
+     "voiced_s": 0.52,
+     "median_f0_hz": 159.9,
+     "held": 0.385
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      19.92,
+      21.08
+     ],
+     "voiced_s": 0.61,
+     "median_f0_hz": 164.8,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      22.5,
+      24.6
+     ],
+     "voiced_s": 0.21,
+     "median_f0_hz": 158.3,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r1-gemini-t2.mp3",
+    "kbytes": 291,
+    "duration_s": 24.816327
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r1-gemini-t1",
+   "passage": "B",
+   "duration_s": 6.83,
+   "transcript": "And...  I'm a little annoyed with it.  And I'm looking.  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.091,
+   "held_sung": 0.0,
+   "sung_seconds": 0.52,
+   "similarity_spoken_vs_sung": 0.225,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.27,
+      2.91
+     ],
+     "voiced_s": 1.28,
+     "median_f0_hz": 198.2,
+     "held": 0.117
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      4.29,
+      4.89
+     ],
+     "voiced_s": 0.36,
+     "median_f0_hz": 278.2,
+     "held": 0.0
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      6.12,
+      6.7
+     ],
+     "voiced_s": 0.21,
+     "median_f0_hz": 301.8,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "B-r1-gemini-t1.mp3",
+    "kbytes": 80,
+    "duration_s": 6.870204
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r1-gemini-t2",
+   "passage": "B",
+   "duration_s": 8.26,
+   "transcript": "And I'm a little annoyed with it. And I'm looking. It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.254,
+   "held_sung": 0.975,
+   "sung_seconds": 0.78,
+   "similarity_spoken_vs_sung": 0.197,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.12,
+      2.06
+     ],
+     "voiced_s": 0.97,
+     "median_f0_hz": 193.6,
+     "held": 0.351
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.21,
+      3.83
+     ],
+     "voiced_s": 0.37,
+     "median_f0_hz": 267.0,
+     "held": 0.0
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      6.8,
+      7.58
+     ],
+     "voiced_s": 0.4,
+     "median_f0_hz": 268.8,
+     "held": 0.975
+    }
+   ],
+   "mp3": {
+    "file": "B-r1-gemini-t2.mp3",
+    "kbytes": 97,
+    "duration_s": 8.306939
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r1-seed-t1",
+   "passage": "A",
+   "duration_s": 29.05,
+   "transcript": "It reads like the first line of something.  and I can't leave a first line alone.  Somebody made them match so we'd look up.  It's the sky.  Rhyming.  I can't check the ones that satisfy. The one I can check doesn't. It fits.  That's all it does.",
+   "wer": 0.0,
+   "held_spoken": 0.399,
+   "held_sung": 0.874,
+   "sung_seconds": 12.91,
+   "similarity_spoken_vs_sung": 0.552,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.16
+     ],
+     "voiced_s": 1.28,
+     "median_f0_hz": 225.0,
+     "held": 0.344
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.45,
+      5.39
+     ],
+     "voiced_s": 1.14,
+     "median_f0_hz": 193.6,
+     "held": 0.456
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      7.38,
+      12.74
+     ],
+     "voiced_s": 4.49,
+     "median_f0_hz": 298.1,
+     "held": 0.886
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      14.31,
+      21.91
+     ],
+     "voiced_s": 6.06,
+     "median_f0_hz": 288.6,
+     "held": 0.865
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      23.61,
+      25.33
+     ],
+     "voiced_s": 0.85,
+     "median_f0_hz": 200.4,
+     "held": 0.376
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      25.49,
+      26.75
+     ],
+     "voiced_s": 0.84,
+     "median_f0_hz": 177.3,
+     "held": 0.44
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      26.75,
+      28.91
+     ],
+     "voiced_s": 0.58,
+     "median_f0_hz": 184.1,
+     "held": 0.379
+    }
+   ],
+   "mp3": {
+    "file": "A-r1-seed-t1.mp3",
+    "kbytes": 341,
+    "duration_s": 29.100408
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r1-seed-t2",
+   "passage": "A",
+   "duration_s": 31.05,
+   "transcript": "It reads like the first line of something.  And I can't leave a first line alone.  Somebody made them match, so we'd...  Look up.  It's the sky.  rhyming,  I can't check the ones that satisfy.  The one I can check doesn't, it fits.  That's all it does.",
+   "wer": 0.0,
+   "held_spoken": 0.511,
+   "held_sung": 0.831,
+   "sung_seconds": 7.85,
+   "similarity_spoken_vs_sung": 0.747,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.48
+     ],
+     "voiced_s": 1.33,
+     "median_f0_hz": 171.3,
+     "held": 0.571
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      4.47,
+      6.51
+     ],
+     "voiced_s": 1.14,
+     "median_f0_hz": 157.8,
+     "held": 0.447
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      10.62,
+      14.5
+     ],
+     "voiced_s": 2.79,
+     "median_f0_hz": 212.7,
+     "held": 0.785
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      16.62,
+      20.67
+     ],
+     "voiced_s": 2.11,
+     "median_f0_hz": 275.5,
+     "held": 0.891
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      23.82,
+      25.84
+     ],
+     "voiced_s": 1.05,
+     "median_f0_hz": 175.1,
+     "held": 0.695
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      27.18,
+      28.88
+     ],
+     "voiced_s": 1.12,
+     "median_f0_hz": 173.5,
+     "held": 0.5
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      28.88,
+      30.88
+     ],
+     "voiced_s": 0.37,
+     "median_f0_hz": 159.9,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r1-seed-t2.mp3",
+    "kbytes": 364,
+    "duration_s": 31.085714
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r1-seed-t1",
+   "passage": "B",
+   "duration_s": 9.64,
+   "transcript": "And I'm a little annoyed with it.  And I'm looking  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.636,
+   "held_sung": 0.0,
+   "sung_seconds": 0.7,
+   "similarity_spoken_vs_sung": 0.194,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.33,
+      2.51
+     ],
+     "voiced_s": 1.74,
+     "median_f0_hz": 224.1,
+     "held": 0.523
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.15,
+      4.57
+     ],
+     "voiced_s": 1.17,
+     "median_f0_hz": 178.1,
+     "held": 0.803
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      7.8,
+      8.56
+     ],
+     "voiced_s": 0.33,
+     "median_f0_hz": 231.8,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "B-r1-seed-t1.mp3",
+    "kbytes": 113,
+    "duration_s": 9.691429
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r1-seed-t2",
+   "passage": "B",
+   "duration_s": 9.93,
+   "transcript": "and I'm a little annoyed with it.  And I'm looking.  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.637,
+   "held_sung": 0.616,
+   "sung_seconds": 1.14,
+   "similarity_spoken_vs_sung": 0.13,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.03,
+      2.05
+     ],
+     "voiced_s": 1.49,
+     "median_f0_hz": 145.3,
+     "held": 0.369
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.09,
+      5.03
+     ],
+     "voiced_s": 1.13,
+     "median_f0_hz": 134.5,
+     "held": 0.991
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      7.38,
+      8.52
+     ],
+     "voiced_s": 0.73,
+     "median_f0_hz": 241.5,
+     "held": 0.616
+    }
+   ],
+   "mp3": {
+    "file": "B-r1-seed-t2.mp3",
+    "kbytes": 117,
+    "duration_s": 9.978776
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r1-eleven-t1",
+   "passage": "A",
+   "duration_s": 17.94,
+   "transcript": "It reads like the first line of something, and I can't leave a first line alone.  Somebody made the match so we'd look up.  It's the sky, rhyming.  I can't check the ones that satisfy. The one I can check doesn't. It fits. That's all it does.",
+   "wer": 0.021,
+   "held_spoken": 0.0,
+   "held_sung": 0.532,
+   "sung_seconds": 5.36,
+   "similarity_spoken_vs_sung": 0.733,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.46
+     ],
+     "voiced_s": 1.11,
+     "median_f0_hz": 221.3,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      2.46,
+      4.66
+     ],
+     "voiced_s": 1.0,
+     "median_f0_hz": 152.5,
+     "held": 0.0
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      5.19,
+      9.01
+     ],
+     "voiced_s": 2.84,
+     "median_f0_hz": 336.9,
+     "held": 0.665
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      9.33,
+      11.01
+     ],
+     "voiced_s": 0.71,
+     "median_f0_hz": 321.5,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      11.46,
+      13.26
+     ],
+     "voiced_s": 0.44,
+     "median_f0_hz": 181.1,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      13.58,
+      15.44
+     ],
+     "voiced_s": 0.62,
+     "median_f0_hz": 254.3,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      15.66,
+      17.86
+     ],
+     "voiced_s": 0.56,
+     "median_f0_hz": 228.9,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r1-eleven-t1.mp3",
+    "kbytes": 210,
+    "duration_s": 17.972245
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r1-eleven-t2",
+   "passage": "A",
+   "duration_s": 18.1,
+   "transcript": "It reads like the first line of something, and I can't leave a first line alone.  Somebody made the match so we'd look up.  It's the sky, rhyming.  I can't check the ones that satisfy. The one I can check doesn't.  It fits. That's all it does.",
+   "wer": 0.021,
+   "held_spoken": 0.041,
+   "held_sung": 0.531,
+   "sung_seconds": 5.26,
+   "similarity_spoken_vs_sung": 0.696,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.38
+     ],
+     "voiced_s": 0.99,
+     "median_f0_hz": 228.8,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      2.38,
+      4.62
+     ],
+     "voiced_s": 1.03,
+     "median_f0_hz": 155.2,
+     "held": 0.0
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      5.19,
+      8.89
+     ],
+     "voiced_s": 2.74,
+     "median_f0_hz": 294.2,
+     "held": 0.661
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      9.27,
+      11.01
+     ],
+     "voiced_s": 0.67,
+     "median_f0_hz": 319.8,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      11.49,
+      13.29
+     ],
+     "voiced_s": 0.46,
+     "median_f0_hz": 180.2,
+     "held": 0.326
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      13.79,
+      15.51
+     ],
+     "voiced_s": 0.61,
+     "median_f0_hz": 228.8,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      16.02,
+      18.06
+     ],
+     "voiced_s": 0.56,
+     "median_f0_hz": 240.0,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r1-eleven-t2.mp3",
+    "kbytes": 212,
+    "duration_s": 18.12898
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r1-eleven-t1",
+   "passage": "B",
+   "duration_s": 4.79,
+   "transcript": "And I'm a little annoyed with it. And I'm looking.  It fits!",
+   "wer": 0.0,
+   "held_spoken": 0.319,
+   "held_sung": 0.0,
+   "sung_seconds": 1.02,
+   "similarity_spoken_vs_sung": 0.301,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.0,
+      1.72
+     ],
+     "voiced_s": 0.97,
+     "median_f0_hz": 246.6,
+     "held": 0.299
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      1.78,
+      2.82
+     ],
+     "voiced_s": 0.47,
+     "median_f0_hz": 233.5,
+     "held": 0.362
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      3.51,
+      4.57
+     ],
+     "voiced_s": 0.37,
+     "median_f0_hz": 354.9,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "B-r1-eleven-t1.mp3",
+    "kbytes": 56,
+    "duration_s": 4.832653
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r1-eleven-t2",
+   "passage": "B",
+   "duration_s": 4.63,
+   "transcript": "And I'm a little annoyed with it. And I'm looking.  It fits!",
+   "wer": 0.0,
+   "held_spoken": 0.503,
+   "held_sung": 0.0,
+   "sung_seconds": 1.0,
+   "similarity_spoken_vs_sung": 0.173,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.0,
+      1.74
+     ],
+     "voiced_s": 1.01,
+     "median_f0_hz": 258.3,
+     "held": 0.446
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      1.74,
+      2.74
+     ],
+     "voiced_s": 0.44,
+     "median_f0_hz": 202.7,
+     "held": 0.636
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      3.45,
+      4.49
+     ],
+     "voiced_s": 0.33,
+     "median_f0_hz": 322.0,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "B-r1-eleven-t2.mp3",
+    "kbytes": 55,
+    "duration_s": 4.675918
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r2-lyria-t1",
+   "passage": "A",
+   "duration_s": 35.24,
+   "transcript": "It reads like the first line of something, and I can't leave a first line alone. Somebody made them match so we'd look up It's the sky rhyming I can't check the ones that satisfy. the one I can check doesn't it fits that's all it does",
+   "wer": 0.0,
+   "held_spoken": 0.248,
+   "held_sung": 0.939,
+   "sung_seconds": 16.82,
+   "similarity_spoken_vs_sung": 0.362,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.26,
+      3.78
+     ],
+     "voiced_s": 1.36,
+     "median_f0_hz": 180.2,
+     "held": 0.213
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.78,
+      6.08
+     ],
+     "voiced_s": 0.4,
+     "median_f0_hz": 165.8,
+     "held": 0.425
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      5.58,
+      15.04
+     ],
+     "voiced_s": 6.71,
+     "median_f0_hz": 390.4,
+     "held": 0.928
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      17.98,
+      25.34
+     ],
+     "voiced_s": 5.16,
+     "median_f0_hz": 295.7,
+     "held": 0.952
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      26.22,
+      29.0
+     ],
+     "voiced_s": 1.0,
+     "median_f0_hz": 180.1,
+     "held": 0.27
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      29.84,
+      31.6
+     ],
+     "voiced_s": 0.68,
+     "median_f0_hz": 169.1,
+     "held": 0.309
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      32.54,
+      35.16
+     ],
+     "voiced_s": 0.35,
+     "median_f0_hz": 166.8,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r2-lyria-t1.mp3",
+    "kbytes": 413,
+    "duration_s": 35.291429
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r2-lyria-t2",
+   "passage": "A",
+   "duration_s": 33.96,
+   "transcript": "It reads like the first line of something.  And I can't leave a first line alone.  Somebody made them match, so we'd look up.  Okay.  \u266a It's the sky \u266a  \u266a Rhyming \u266a  I can't check the ones that satisfy.  The one I can check doesn't.  It...  Fits.  That's all it does.",
+   "wer": 0.021,
+   "held_spoken": 0.382,
+   "held_sung": 0.943,
+   "sung_seconds": 12.94,
+   "similarity_spoken_vs_sung": 0.347,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.8
+     ],
+     "voiced_s": 1.48,
+     "median_f0_hz": 167.7,
+     "held": 0.311
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.51,
+      5.15
+     ],
+     "voiced_s": 1.08,
+     "median_f0_hz": 182.4,
+     "held": 0.444
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      5.76,
+      12.82
+     ],
+     "voiced_s": 5.17,
+     "median_f0_hz": 407.8,
+     "held": 0.936
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      17.7,
+      23.79
+     ],
+     "voiced_s": 4.52,
+     "median_f0_hz": 541.3,
+     "held": 0.951
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      24.8,
+      27.08
+     ],
+     "voiced_s": 0.81,
+     "median_f0_hz": 189.6,
+     "held": 0.296
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      28.08,
+      29.74
+     ],
+     "voiced_s": 0.91,
+     "median_f0_hz": 184.8,
+     "held": 0.593
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      31.05,
+      33.87
+     ],
+     "voiced_s": 0.61,
+     "median_f0_hz": 157.1,
+     "held": 0.246
+    }
+   ],
+   "mp3": {
+    "file": "A-r2-lyria-t2.mp3",
+    "kbytes": 398,
+    "duration_s": 34.011429
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r2-lyria-t1",
+   "passage": "B",
+   "duration_s": 8.11,
+   "transcript": "And...  I'm a little annoyed with it.  And I'm looking.  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.51,
+   "held_sung": 0.625,
+   "sung_seconds": 1.24,
+   "similarity_spoken_vs_sung": 0.14,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.0,
+      2.91
+     ],
+     "voiced_s": 1.82,
+     "median_f0_hz": 166.5,
+     "held": 0.489
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.81,
+      4.81
+     ],
+     "voiced_s": 0.57,
+     "median_f0_hz": 183.4,
+     "held": 0.579
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      5.88,
+      7.26
+     ],
+     "voiced_s": 0.4,
+     "median_f0_hz": 234.7,
+     "held": 0.625
+    }
+   ],
+   "mp3": {
+    "file": "B-r2-lyria-t1.mp3",
+    "kbytes": 95,
+    "duration_s": 8.150204
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r2-lyria-t2",
+   "passage": "B",
+   "duration_s": 7.29,
+   "transcript": "And I'm a little annoyed with it. And I'm looking.",
+   "wer": 0.167,
+   "held_spoken": 0.319,
+   "held_sung": null,
+   "sung_seconds": 0,
+   "similarity_spoken_vs_sung": null,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.26,
+      2.64
+     ],
+     "voiced_s": 1.74,
+     "median_f0_hz": 299.7,
+     "held": 0.259
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.6,
+      4.18
+     ],
+     "voiced_s": 0.36,
+     "median_f0_hz": 183.8,
+     "held": 0.611
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": null
+    }
+   ],
+   "mp3": {
+    "file": "B-r2-lyria-t2.mp3",
+    "kbytes": 86,
+    "duration_s": 7.340408
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r2-seed-t1",
+   "passage": "A",
+   "duration_s": 25.58,
+   "transcript": "It reads like the first line of something, and I can't leave a first line alone.  Somebody made them match  So we'd look up.  It's the sky.  Rhyming.  I can't check the ones that satisfy.  The one I can check doesn't.  It fits.  That's all it does.",
+   "wer": 0.0,
+   "held_spoken": 0.273,
+   "held_sung": 0.63,
+   "sung_seconds": 7.36,
+   "similarity_spoken_vs_sung": 0.69,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.21,
+      3.17
+     ],
+     "voiced_s": 1.19,
+     "median_f0_hz": 207.6,
+     "held": 0.244
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.17,
+      5.99
+     ],
+     "voiced_s": 0.59,
+     "median_f0_hz": 168.8,
+     "held": 0.407
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      6.6,
+      11.78
+     ],
+     "voiced_s": 3.16,
+     "median_f0_hz": 257.0,
+     "held": 0.649
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      13.5,
+      15.74
+     ],
+     "voiced_s": 0.6,
+     "median_f0_hz": 164.9,
+     "held": 0.533
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      16.5,
+      18.78
+     ],
+     "voiced_s": 0.99,
+     "median_f0_hz": 181.8,
+     "held": 0.273
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      20.04,
+      21.44
+     ],
+     "voiced_s": 0.6,
+     "median_f0_hz": 162.8,
+     "held": 0.367
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      22.8,
+      25.44
+     ],
+     "voiced_s": 0.36,
+     "median_f0_hz": 167.1,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r2-seed-t1.mp3",
+    "kbytes": 300,
+    "duration_s": 25.626122
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r2-seed-t2",
+   "passage": "A",
+   "duration_s": 23.09,
+   "transcript": "It reads like the first line of something.  And I can't leave a first line alone.  Somebody made the match.  So we'd look up.  It's the sky.  Rhyming.  I can't check the ones that satisfy.  The one I can check doesn't.  It  Fits.  That's all it does.",
+   "wer": 0.021,
+   "held_spoken": 0.383,
+   "held_sung": 0.541,
+   "sung_seconds": 6.36,
+   "similarity_spoken_vs_sung": 0.708,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.8
+     ],
+     "voiced_s": 1.48,
+     "median_f0_hz": 167.7,
+     "held": 0.311
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.51,
+      5.15
+     ],
+     "voiced_s": 1.08,
+     "median_f0_hz": 182.4,
+     "held": 0.444
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      5.79,
+      9.65
+     ],
+     "voiced_s": 2.2,
+     "median_f0_hz": 277.3,
+     "held": 0.559
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      10.53,
+      13.14
+     ],
+     "voiced_s": 0.83,
+     "median_f0_hz": 180.4,
+     "held": 0.494
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      14.1,
+      16.14
+     ],
+     "voiced_s": 0.81,
+     "median_f0_hz": 190.1,
+     "held": 0.309
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      17.22,
+      18.86
+     ],
+     "voiced_s": 0.9,
+     "median_f0_hz": 181.8,
+     "held": 0.6
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      20.16,
+      22.97
+     ],
+     "voiced_s": 0.64,
+     "median_f0_hz": 157.8,
+     "held": 0.234
+    }
+   ],
+   "mp3": {
+    "file": "A-r2-seed-t2.mp3",
+    "kbytes": 271,
+    "duration_s": 23.118367
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r2-seed-t1",
+   "passage": "B",
+   "duration_s": 7.27,
+   "transcript": "And...  I'm a little annoyed with it.  And I'm looking.  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.51,
+   "held_sung": 0.643,
+   "sung_seconds": 0.88,
+   "similarity_spoken_vs_sung": 0.215,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.0,
+      2.91
+     ],
+     "voiced_s": 1.82,
+     "median_f0_hz": 166.5,
+     "held": 0.489
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.81,
+      4.81
+     ],
+     "voiced_s": 0.57,
+     "median_f0_hz": 183.4,
+     "held": 0.579
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      5.55,
+      6.47
+     ],
+     "voiced_s": 0.42,
+     "median_f0_hz": 233.4,
+     "held": 0.643
+    }
+   ],
+   "mp3": {
+    "file": "B-r2-seed-t1.mp3",
+    "kbytes": 86,
+    "duration_s": 7.314286
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r2-seed-t2",
+   "passage": "B",
+   "duration_s": 7.29,
+   "transcript": "and I'm a little annoyed with it.  And I'm looking.  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.319,
+   "held_sung": 0.0,
+   "sung_seconds": 0.76,
+   "similarity_spoken_vs_sung": 0.132,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.15,
+      2.59
+     ],
+     "voiced_s": 1.74,
+     "median_f0_hz": 299.7,
+     "held": 0.259
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.51,
+      4.15
+     ],
+     "voiced_s": 0.36,
+     "median_f0_hz": 183.8,
+     "held": 0.611
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      4.77,
+      5.59
+     ],
+     "voiced_s": 0.14,
+     "median_f0_hz": 177.2,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "B-r2-seed-t2.mp3",
+    "kbytes": 86,
+    "duration_s": 7.340408
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r2-fish-t1",
+   "passage": "A",
+   "duration_s": 23.43,
+   "transcript": "It reads like the first line of something, and I can't leave a first line alone.  Somebody made them match, so we'd look up.  It's the sky.  Rhyming.  I can't check the ones that satisfy.  The one I can check doesn't.  It fits.  That's all it does.",
+   "wer": 0.0,
+   "held_spoken": 0.274,
+   "held_sung": 0.428,
+   "sung_seconds": 6.11,
+   "similarity_spoken_vs_sung": 0.595,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.21,
+      3.17
+     ],
+     "voiced_s": 1.19,
+     "median_f0_hz": 207.6,
+     "held": 0.244
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.17,
+      5.99
+     ],
+     "voiced_s": 0.59,
+     "median_f0_hz": 168.8,
+     "held": 0.407
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      6.6,
+      10.52
+     ],
+     "voiced_s": 2.2,
+     "median_f0_hz": 198.3,
+     "held": 0.564
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      11.46,
+      13.82
+     ],
+     "voiced_s": 0.7,
+     "median_f0_hz": 182.3,
+     "held": 0.0
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      14.34,
+      16.68
+     ],
+     "voiced_s": 1.0,
+     "median_f0_hz": 180.1,
+     "held": 0.27
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      17.91,
+      19.27
+     ],
+     "voiced_s": 0.55,
+     "median_f0_hz": 160.9,
+     "held": 0.382
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      20.67,
+      23.32
+     ],
+     "voiced_s": 0.35,
+     "median_f0_hz": 166.7,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "A-r2-fish-t1.mp3",
+    "kbytes": 275,
+    "duration_s": 23.457959
+   },
+   "notes": []
+  },
+  {
+   "take": "A-r2-fish-t2",
+   "passage": "A",
+   "duration_s": 23.18,
+   "transcript": "It reads like the first line of something.  And I can't leave a first line alone.  Somebody made them match, so we'd look up.  It's the sky.  Rhyming.  I can't check the ones that satisfy.  The one I can check doesn't.  It  Fits.  That's all it does.",
+   "wer": 0.0,
+   "held_spoken": 0.382,
+   "held_sung": 0.55,
+   "sung_seconds": 6.27,
+   "similarity_spoken_vs_sung": 0.7,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "It reads like the first line of something,",
+     "span_s": [
+      0.0,
+      2.8
+     ],
+     "voiced_s": 1.48,
+     "median_f0_hz": 167.7,
+     "held": 0.311
+    },
+    {
+     "mode": "speak",
+     "text": "and I can't leave a first line alone.",
+     "span_s": [
+      3.51,
+      5.15
+     ],
+     "voiced_s": 1.08,
+     "median_f0_hz": 182.4,
+     "held": 0.444
+    },
+    {
+     "mode": "sing",
+     "text": "Somebody made them match, so we'd look up.",
+     "span_s": [
+      5.79,
+      9.69
+     ],
+     "voiced_s": 2.36,
+     "median_f0_hz": 191.7,
+     "held": 0.606
+    },
+    {
+     "mode": "sing",
+     "text": "It's the sky, rhyming.",
+     "span_s": [
+      10.59,
+      13.1
+     ],
+     "voiced_s": 0.86,
+     "median_f0_hz": 168.9,
+     "held": 0.395
+    },
+    {
+     "mode": "speak",
+     "text": "I can't check the ones that satisfy.",
+     "span_s": [
+      14.22,
+      16.26
+     ],
+     "voiced_s": 0.81,
+     "median_f0_hz": 189.6,
+     "held": 0.296
+    },
+    {
+     "mode": "speak",
+     "text": "The one I can check doesn't:",
+     "span_s": [
+      17.31,
+      18.95
+     ],
+     "voiced_s": 0.91,
+     "median_f0_hz": 184.8,
+     "held": 0.593
+    },
+    {
+     "mode": "speak",
+     "text": "it fits. That's all it does.",
+     "span_s": [
+      20.25,
+      23.06
+     ],
+     "voiced_s": 0.61,
+     "median_f0_hz": 157.1,
+     "held": 0.246
+    }
+   ],
+   "mp3": {
+    "file": "A-r2-fish-t2.mp3",
+    "kbytes": 272,
+    "duration_s": 23.222857
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r2-fish-t1",
+   "passage": "B",
+   "duration_s": 6.85,
+   "transcript": "And...  I'm a little annoyed with it.  And I'm looking.  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.51,
+   "held_sung": 0.0,
+   "sung_seconds": 0.97,
+   "similarity_spoken_vs_sung": 0.304,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.0,
+      2.91
+     ],
+     "voiced_s": 1.82,
+     "median_f0_hz": 166.5,
+     "held": 0.489
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.81,
+      4.81
+     ],
+     "voiced_s": 0.57,
+     "median_f0_hz": 183.4,
+     "held": 0.579
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      5.55,
+      6.59
+     ],
+     "voiced_s": 0.11,
+     "median_f0_hz": 198.7,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "B-r2-fish-t1.mp3",
+    "kbytes": 81,
+    "duration_s": 6.896327
+   },
+   "notes": []
+  },
+  {
+   "take": "B-r2-fish-t2",
+   "passage": "B",
+   "duration_s": 6.04,
+   "transcript": "and I'm a little annoyed with it.  And I'm looking.  It fits.",
+   "wer": 0.0,
+   "held_spoken": 0.319,
+   "held_sung": 0.0,
+   "sung_seconds": 0.92,
+   "similarity_spoken_vs_sung": 0.311,
+   "lines": [
+    {
+     "mode": "speak",
+     "text": "and I'm a little annoyed with it,",
+     "span_s": [
+      0.15,
+      2.59
+     ],
+     "voiced_s": 1.74,
+     "median_f0_hz": 299.7,
+     "held": 0.259
+    },
+    {
+     "mode": "speak",
+     "text": "and I'm looking.",
+     "span_s": [
+      3.51,
+      4.15
+     ],
+     "voiced_s": 0.36,
+     "median_f0_hz": 183.8,
+     "held": 0.611
+    },
+    {
+     "mode": "sing",
+     "text": "It fits.",
+     "span_s": [
+      4.77,
+      5.75
+     ],
+     "voiced_s": 0.16,
+     "median_f0_hz": 190.8,
+     "held": 0.0
+    }
+   ],
+   "mp3": {
+    "file": "B-r2-fish-t2.mp3",
+    "kbytes": 71,
+    "duration_s": 6.086531
+   },
+   "notes": []
+  }
+ ],
+ "baselines": {
+  "same voice, two generations (Gemini A t1 vs t2, spoken)": 0.842,
+  "different voices (Gemini vs Eleven, A t1, spoken)": 0.211
+ },
+ "failures": {},
+ "generation_notes": {}
+}

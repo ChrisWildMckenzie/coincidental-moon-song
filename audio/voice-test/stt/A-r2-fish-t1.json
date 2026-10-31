@@ -1,0 +1,418 @@
+{
+ "text": " It reads like the first line of something, and I can't leave a first line alone.  Somebody made them match, so we'd look up.  It's the sky.  Rhyming.  I can't check the ones that satisfy.  The one I can check doesn't.  It fits.  That's all it does.",
+ "usage": {
+  "seconds": 23.43,
+  "cost": 0.000175725
+ },
+ "task": "transcribe",
+ "language": "en",
+ "duration": 23.43,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0.21,
+   "end": 6.21,
+   "text": " It reads like the first line of something, and I can't leave a first line alone.",
+   "tokens": [
+    467,
+    15700,
+    411,
+    264,
+    700,
+    1622,
+    295,
+    746,
+    11,
+    293,
+    286,
+    393,
+    380,
+    1856,
+    257,
+    700,
+    1622,
+    3312,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.07287219904364542,
+   "compression_ratio": 1.1095890410958904,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 6,
+   "start": 6.6,
+   "end": 10.76,
+   "text": " Somebody made them match, so we'd look up.",
+   "tokens": [
+    13463,
+    1027,
+    552,
+    2995,
+    11,
+    370,
+    321,
+    1116,
+    574,
+    493,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.26371533173816997,
+   "compression_ratio": 0.8775510204081632,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 11,
+   "start": 11.46,
+   "end": 12.580000000000002,
+   "text": " It's the sky.",
+   "tokens": [
+    467,
+    311,
+    264,
+    5443,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.30497455117957933,
+   "compression_ratio": 0.6363636363636364,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 13,
+   "start": 13.14,
+   "end": 15.14,
+   "text": " Rhyming.",
+   "tokens": [
+    497,
+    3495,
+    2810,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.6491257936092248,
+   "compression_ratio": 0.5294117647058824,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 14,
+   "start": 14.34,
+   "end": 16.7,
+   "text": " I can't check the ones that satisfy.",
+   "tokens": [
+    286,
+    393,
+    380,
+    1520,
+    264,
+    2306,
+    300,
+    19319,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.13290887621802872,
+   "compression_ratio": 0.8604651162790697,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 17,
+   "start": 17.91,
+   "end": 19.97,
+   "text": " The one I can check doesn't.",
+   "tokens": [
+    440,
+    472,
+    286,
+    393,
+    1520,
+    1177,
+    380,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.2575455967686139,
+   "compression_ratio": 0.7837837837837838,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 20,
+   "start": 20.67,
+   "end": 21.71,
+   "text": " It fits.",
+   "tokens": [
+    467,
+    9001,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.32993943691253663,
+   "compression_ratio": 0.5294117647058824,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 22,
+   "start": 22.38,
+   "end": 23.279999999999998,
+   "text": " That's all it does.",
+   "tokens": [
+    663,
+    311,
+    439,
+    309,
+    775,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.21201099121390143,
+   "compression_ratio": 0.7142857142857143,
+   "no_speech_prob": 0
+  }
+ ],
+ "words": [
+  {
+   "word": " It",
+   "start": 0.21,
+   "end": 0.32999999731779095
+  },
+  {
+   "word": " reads",
+   "start": 0.32999999731779095,
+   "end": 0.6700000083446502
+  },
+  {
+   "word": " like",
+   "start": 0.6700000083446502,
+   "end": 1.0299999928474426
+  },
+  {
+   "word": " the",
+   "start": 1.0299999928474426,
+   "end": 1.550000033378601
+  },
+  {
+   "word": " first",
+   "start": 1.550000033378601,
+   "end": 1.7900000429153442
+  },
+  {
+   "word": " line",
+   "start": 1.7900000429153442,
+   "end": 2.150000057220459
+  },
+  {
+   "word": " of",
+   "start": 2.150000057220459,
+   "end": 2.650000057220459
+  },
+  {
+   "word": " something,",
+   "start": 2.650000057220459,
+   "end": 3.1700000381469726
+  },
+  {
+   "word": " and",
+   "start": 3.1700000381469726,
+   "end": 3.7899999237060547
+  },
+  {
+   "word": " I",
+   "start": 3.7899999237060547,
+   "end": 4.289999923706055
+  },
+  {
+   "word": " can't",
+   "start": 4.289999923706055,
+   "end": 5.010000190734863
+  },
+  {
+   "word": " leave",
+   "start": 5.010000190734863,
+   "end": 5.130000076293945
+  },
+  {
+   "word": " a",
+   "start": 5.130000076293945,
+   "end": 5.289999923706055
+  },
+  {
+   "word": " first",
+   "start": 5.289999923706055,
+   "end": 5.470000228881836
+  },
+  {
+   "word": " line",
+   "start": 5.470000228881836,
+   "end": 5.670000038146973
+  },
+  {
+   "word": " alone.",
+   "start": 5.670000038146973,
+   "end": 5.99000020980835
+  },
+  {
+   "word": " Somebody",
+   "start": 6.6,
+   "end": 7.160000002384185
+  },
+  {
+   "word": " made",
+   "start": 7.160000002384185,
+   "end": 7.720000004768371
+  },
+  {
+   "word": " them",
+   "start": 7.720000004768371,
+   "end": 8.1
+  },
+  {
+   "word": " match,",
+   "start": 8.1,
+   "end": 8.840000009536743
+  },
+  {
+   "word": " so",
+   "start": 8.840000009536743,
+   "end": 9.399999952316284
+  },
+  {
+   "word": " we'd",
+   "start": 9.399999952316284,
+   "end": 9.780000066757202
+  },
+  {
+   "word": " look",
+   "start": 9.780000066757202,
+   "end": 10.000000095367431
+  },
+  {
+   "word": " up.",
+   "start": 10.000000095367431,
+   "end": 10.520000076293945
+  },
+  {
+   "word": " It's",
+   "start": 11.46,
+   "end": 11.699999994635583
+  },
+  {
+   "word": " the",
+   "start": 11.699999994635583,
+   "end": 11.80000000357628
+  },
+  {
+   "word": " sky.",
+   "start": 11.80000000357628,
+   "end": 12.279999992847443
+  },
+  {
+   "word": " Rhyming.",
+   "start": 13.14,
+   "end": 13.820000007152558
+  },
+  {
+   "word": " I",
+   "start": 14.34,
+   "end": 14.559999998807907
+  },
+  {
+   "word": " can't",
+   "start": 14.559999998807907,
+   "end": 14.960000004768371
+  },
+  {
+   "word": " check",
+   "start": 14.960000004768371,
+   "end": 15.299999978542328
+  },
+  {
+   "word": " the",
+   "start": 15.299999978542328,
+   "end": 15.540000047683716
+  },
+  {
+   "word": " ones",
+   "start": 15.540000047683716,
+   "end": 15.780000057220459
+  },
+  {
+   "word": " that",
+   "start": 15.780000057220459,
+   "end": 16.080000009536743
+  },
+  {
+   "word": " satisfy.",
+   "start": 16.080000009536743,
+   "end": 16.67999991416931
+  },
+  {
+   "word": " The",
+   "start": 17.91,
+   "end": 18.090000007152558
+  },
+  {
+   "word": " one",
+   "start": 18.090000007152558,
+   "end": 18.270000014305115
+  },
+  {
+   "word": " I",
+   "start": 18.270000014305115,
+   "end": 18.41
+  },
+  {
+   "word": " can",
+   "start": 18.41,
+   "end": 18.549999985694885
+  },
+  {
+   "word": " check",
+   "start": 18.549999985694885,
+   "end": 18.91
+  },
+  {
+   "word": " doesn't.",
+   "start": 18.91,
+   "end": 19.270000014305115
+  },
+  {
+   "word": " It",
+   "start": 20.67,
+   "end": 20.829999996423723
+  },
+  {
+   "word": " fits.",
+   "start": 20.829999996423723,
+   "end": 21.729999942779543
+  },
+  {
+   "word": " That's",
+   "start": 22.38,
+   "end": 22.61999999463558
+  },
+  {
+   "word": " all",
+   "start": 22.61999999463558,
+   "end": 22.759999995231627
+  },
+  {
+   "word": " it",
+   "start": 22.759999995231627,
+   "end": 22.92000002145767
+  },
+  {
+   "word": " does.",
+   "start": 22.92000002145767,
+   "end": 23.320000042319297
+  }
+ ]
+}

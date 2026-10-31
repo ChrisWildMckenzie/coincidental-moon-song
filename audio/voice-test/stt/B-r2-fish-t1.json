@@ -1,0 +1,144 @@
+{
+ "text": " And...  I'm a little annoyed with it.  And I'm looking.  It fits.",
+ "usage": {
+  "seconds": 6.85,
+  "cost": 5.1375e-05
+ },
+ "task": "transcribe",
+ "language": "en",
+ "duration": 6.85,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0,
+   "end": 1.02,
+   "text": " And...",
+   "tokens": [
+    400,
+    485
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.24239670461975038,
+   "compression_ratio": 0.4666666666666667,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 1,
+   "start": 1.29,
+   "end": 3.27,
+   "text": " I'm a little annoyed with it.",
+   "tokens": [
+    286,
+    478,
+    257,
+    707,
+    25921,
+    365,
+    309,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.06641103359870612,
+   "compression_ratio": 0.7894736842105263,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 3,
+   "start": 3.81,
+   "end": 5.17,
+   "text": " And I'm looking.",
+   "tokens": [
+    400,
+    286,
+    478,
+    1237,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.29381175242763546,
+   "compression_ratio": 0.68,
+   "no_speech_prob": 0
+  },
+  {
+   "id": 0,
+   "seek": 5,
+   "start": 5.55,
+   "end": 6.81,
+   "text": " It fits.",
+   "tokens": [
+    467,
+    9001,
+    13
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.41384592056274416,
+   "compression_ratio": 0.5294117647058824,
+   "no_speech_prob": 0
+  }
+ ],
+ "words": [
+  {
+   "word": " And...",
+   "start": 0,
+   "end": 0.6200000047683716
+  },
+  {
+   "word": " I'm",
+   "start": 1.29,
+   "end": 1.4900000029802323
+  },
+  {
+   "word": " a",
+   "start": 1.4900000029802323,
+   "end": 1.590000011920929
+  },
+  {
+   "word": " little",
+   "start": 1.590000011920929,
+   "end": 1.9700000071525574
+  },
+  {
+   "word": " annoyed",
+   "start": 1.9700000071525574,
+   "end": 2.3299999618530274
+  },
+  {
+   "word": " with",
+   "start": 2.3299999618530274,
+   "end": 2.630000033378601
+  },
+  {
+   "word": " it.",
+   "start": 2.630000033378601,
+   "end": 2.9100000047683716
+  },
+  {
+   "word": " And",
+   "start": 3.81,
+   "end": 4.010000002980233
+  },
+  {
+   "word": " I'm",
+   "start": 4.010000002980233,
+   "end": 4.3899999833107
+  },
+  {
+   "word": " looking.",
+   "start": 4.3899999833107,
+   "end": 4.8100000000000005
+  },
+  {
+   "word": " It",
+   "start": 5.55,
+   "end": 5.750000002980232
+  },
+  {
+   "word": " fits.",
+   "start": 5.750000002980232,
+   "end": 6.589999961853027
+  }
+ ]
+}

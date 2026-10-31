@@ -1,0 +1,108 @@
+{
+ "text": " And I'm a little annoyed with it. And I'm looking.",
+ "usage": {
+  "seconds": 10,
+  "cost": 0.000308333333333
+ },
+ "task": "transcribe",
+ "language": "English",
+ "duration": 7.290062336,
+ "segments": [
+  {
+   "id": 0,
+   "seek": 0,
+   "start": 0,
+   "end": 2.6599998,
+   "text": " And I'm a little annoyed with it.",
+   "tokens": [
+    50365,
+    400,
+    286,
+    478,
+    257,
+    707,
+    25921,
+    365,
+    309,
+    13,
+    50498
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.21895246,
+   "compression_ratio": 0.9622642,
+   "no_speech_prob": 0.017868042
+  },
+  {
+   "id": 1,
+   "seek": 0,
+   "start": 3.52,
+   "end": 4.22,
+   "text": " And I'm looking.",
+   "tokens": [
+    50541,
+    400,
+    286,
+    478,
+    1237,
+    13,
+    50576
+   ],
+   "temperature": 0,
+   "avg_logprob": -0.21895246,
+   "compression_ratio": 0.9622642,
+   "no_speech_prob": 0.017868042
+  }
+ ],
+ "words": [
+  {
+   "word": "And",
+   "start": 0.26,
+   "end": 0.54
+  },
+  {
+   "word": "I'm",
+   "start": 0.54,
+   "end": 1.26
+  },
+  {
+   "word": "a",
+   "start": 1.26,
+   "end": 1.36
+  },
+  {
+   "word": "little",
+   "start": 1.36,
+   "end": 1.72
+  },
+  {
+   "word": "annoyed",
+   "start": 1.72,
+   "end": 2.18
+  },
+  {
+   "word": "with",
+   "start": 2.18,
+   "end": 2.4
+  },
+  {
+   "word": "it.",
+   "start": 2.4,
+   "end": 2.64
+  },
+  {
+   "word": "And",
+   "start": 3.6,
+   "end": 3.78
+  },
+  {
+   "word": "I'm",
+   "start": 3.78,
+   "end": 3.94
+  },
+  {
+   "word": "looking.",
+   "start": 3.94,
+   "end": 4.18
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "text": "And I'm a little annoyed with it. And I'm looking. It fits.",
+ "usage": {
+  "seconds": 8.26,
+  "cost": 0.0002065
+ },
+ "language": "en",
+ "duration": 8.26,
+ "segments": [
+  {
+   "id": 0,
+   "start": 0,
+   "end": 8.26,
+   "text": "And I'm a little annoyed with it. And I'm looking. It fits.",
+   "avg_logprob": -0.0743,
+   "compression_ratio": 0.9516
+  }
+ ],
+ "words": [
+  {
+   "word": "And",
+   "start": 0.12025,
+   "end": 0.2205
+  },
+  {
+   "word": "I'm",
+   "start": 0.260625,
+   "end": 0.94225
+  },
+  {
+   "word": "a",
+   "start": 0.9623125,
+   "end": 1.0224375
+  },
+  {
+   "word": "little",
+   "start": 1.0224375,
+   "end": 1.2229375
+  },
+  {
+   "word": "annoyed",
+   "start": 1.2830625,
+   "end": 1.6439375
+  },
+  {
+   "word": "with",
+   "start": 1.724125,
+   "end": 1.8645
+  },
+  {
+   "word": "it.",
+   "start": 2.0048125,
+   "end": 2.065
+  },
+  {
+   "word": "And",
+   "start": 3.20775,
+   "end": 3.2879375
+  },
+  {
+   "word": "I'm",
+   "start": 3.3480625,
+   "end": 3.42825
+  },
+  {
+   "word": "looking.",
+   "start": 3.4884375,
+   "end": 3.82925
+  },
+  {
+   "word": "It",
+   "start": 6.7964375,
+   "end": 6.876625
+  },
+  {
+   "word": "fits.",
+   "start": 7.037,
+   "end": 7.5783125
+  }
+ ]
+}
