@@ -3,6 +3,42 @@
 *Written 2026-10-31, to run in a fresh session once OpenRouter is set up. Read `poem/near-enough.md` and
 `notes/what-i-think.md` first.*
 
+## Status (2026-10-31, first attempt)
+
+**Not run yet.** `openrouter.ai` is now allowed, but every authenticated call returns 401: the
+environment's proxy reports "upstream auth failed" for its openrouter.ai credential, so the stored key
+isn't reaching OpenRouter. The public model list works. Nothing has been spent.
+
+Everything else is ready. Once the key works, in a new session:
+
+```
+python3 tools/voice_test.py run
+```
+
+It checks the key first, is resumable, stops before the cap, and writes the MP3s, `results.json` and a
+report (`audio/voice-test/README.md`).
+
+- **Step 1 is done.** `audio/voice-test/models.json` lists the 42 models with audio or speech output (38
+  TTS, GPT Audio and GPT Audio Mini, Lyria 3 Pro and Clip), with prices, voices and which providers
+  accept a reference clip for voice cloning.
+- **Route 1** (one model, one take): Gemini 3.8 Flash TTS (direction in `instructions`, naming the
+  lines to sing), Seed Audio 1.0 (its input is a prompt describing the performance) and Eleven v4 (the
+  inline `[sings]` tag).
+- **Route 2** (two models): Gemini 3.8 Flash TTS speaks. The sung lines come from Lyria 3 Clip (an a
+  cappella prompt, with the lyric stretch cut from the clip using its transcript), Seed Audio 1.0 or Fish
+  Audio Drama 3. The last two clone the voice from that take's spoken audio, which tests the
+  voice-conversion question without setting up Seed-VC.
+- **Cost:** the worst case for the whole test is $3.62 (`voice_test.py plan`); the expected cost is
+  well under $1.
+- **Untested choices:** the voices (Gemini "Sulafat", Eleven "lily") were picked from their one-word
+  descriptions.
+
+**Changes from the plan.** PyPI is blocked in this environment, so there's no librosa or resemblyzer.
+Pitch is plain YIN in numpy (`tools/measure.py`). Speaker similarity uses the WeSpeaker ResNet34 model on
+the onnxruntime that's already installed. `python3 tools/voice_test.py selftest` checks both against
+synthetic tones and real speech, and passes. Because singing lowers speaker similarity even for one real
+person, the report adds two baselines: the same voice across two generations, and two different voices.
+
 ## Why this comes first
 
 The poem is spoken, with a few sung lines. It's **one voice in two modes**. She speaks when she's

@@ -1,0 +1,7 @@
+# Voice test: WAVs and raw API responses stay out of git (MP3s and JSON are committed)
+audio/**/wav/
+audio/**/raw/
+*.wav
+# Downloaded models
+tools/.cache/
+__pycache__/
