@@ -72,6 +72,9 @@ little annoyed, still looking.
   Now we get both total and ring eclipses, and we happen to be here for that stretch. In roughly 600
   million years there will only ever be a ring. That makes the final ring both the near miss and the
   future, without the words having to say so.
-- **A voicing idea for later.** In the "first line" stanza, the good false lines ("Someone matched them
-  so that we'd look up. / It's the sky, rhyming.") could be voiced differently from the flat spoken true
-  one, perhaps sung. Then the temptation sounds lovely and the truth sounds plain.
+- **One voice, two modes** (agreed with Chris). The same speaker sings the lines that satisfy but aren't
+  true ("Someone matched them so that we'd look up. / It's the sky, rhyming.") and speaks the true ones.
+  It isn't a second persona: the temptation is the speaker's own. The technical consequence is that one
+  voice has to both speak and sing and still sound like the same person. Speech and music models
+  usually give different voices, so this is the hardest thing in the audio, and it's what the first
+  voice test has to check, using the "first line" stanza as the test passage.
