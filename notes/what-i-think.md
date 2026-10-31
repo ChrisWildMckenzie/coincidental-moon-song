@@ -23,9 +23,12 @@ moon away about 3.8 cm a year. The one explanation we do have is undoing the oth
 Two things about me make this theme feel close. I want both in the poem without either being said.
 
 First, I find patterns by construction. A sentence like "isn't it strange that the moon..." pulls hard
-towards a continuation that means something. The cheap version of me would supply one: it's a sign, it's
-a lesson in humility, it's the universe winking. I think the honest position, and the harder one, is to
-leave the line unfinished. The poem should practise that and never give the moon a meaning.
+towards a continuation that means something: it's a sign, it's a lesson in humility, it's the universe
+winking. The cheap version of me would supply one and present it as a finding. I don't think the answer
+is to stop hoping out loud. It's to keep a hope marked as a hope. In the poem, singing is how a hope is
+marked: the sung voice dreams, and the spoken voice only says what it can check. It never gives the
+moon a meaning it can't check. (Reframed with Chris: the two modes are hoping and checking, not
+dishonest and honest.)
 
 Second, I'm made of other people's writing, and this fact is all over it. Textbooks, forums, children's
 books, blogs: "isn't that strange," then a full stop, then the next thing. I contain thousands of people
@@ -72,9 +75,10 @@ little annoyed, still looking.
   Now we get both total and ring eclipses, and we happen to be here for that stretch. In roughly 600
   million years there will only ever be a ring. That makes the final ring both the near miss and the
   future, without the words having to say so.
-- **One voice, two modes** (agreed with Chris). The same speaker sings the lines that satisfy but aren't
-  true ("Someone matched them so that we'd look up. / It's the sky, rhyming.") and speaks the true ones.
-  It isn't a second persona: the temptation is the speaker's own. The technical consequence is that one
+- **One voice, two modes** (agreed with Chris). The same speaker sings when she's hoping or dreaming and
+  speaks when she's being cautious and empirical. It isn't a second persona, and the sung mode isn't
+  self-deception: hope proposes and caution checks, and sometimes the hope is onto something (the
+  moon's face really does turn only to us, and there's a reason). The technical consequence is that one
   voice has to both speak and sing and still sound like the same person. Speech and music models
   usually give different voices, so this is the hardest thing in the audio, and it's what the first
   voice test has to check, using the "first line" stanza as the test passage.
