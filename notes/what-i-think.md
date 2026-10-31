@@ -67,3 +67,11 @@ little annoyed, still looking.
 - The words keep saying there's nothing there, while the pictures keep finding rhymes: equal circles
   everywhere (a coin, a pupil, a cup's rim, a porthole), cut to the same size on screen.
 - The last image is the annular ring: the near miss, the bit that doesn't fit, still bright.
+- **Deep time goes in the pictures, not the words** (from Chris's notes on draft 1). Under the
+  fingernail lines, the eclipse runs forward through time. Long ago the moon always covered the sun.
+  Now we get both total and ring eclipses, and we happen to be here for that stretch. In roughly 600
+  million years there will only ever be a ring. That makes the final ring both the near miss and the
+  future, without the words having to say so.
+- **A voicing idea for later.** In the "first line" stanza, the good false lines ("Someone matched them
+  so that we'd look up. / It's the sky, rhyming.") could be voiced differently from the flat spoken true
+  one, perhaps sung. Then the temptation sounds lovely and the truth sounds plain.
